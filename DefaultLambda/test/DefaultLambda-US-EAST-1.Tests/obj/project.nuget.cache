@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KiFdAovBog03isxZJFRXyMrQ+EK9XdgHHVFQgulrha/3AfXbo/IjO2JqLQEzfLsPUv2PFboNg258vA0KKI9qeg==",
+  "dgSpecHash": "O+8CMVCmpnakU7iEinjUVnzLhk95sIBqzNhDwXeGkuZEOj7mVfNdb4BPvhAq3gjtADozyvX5kJJkiPM4/WDKvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\test\\DefaultLambda-US-EAST-1.Tests\\DefaultLambda-US-EAST-1.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\DefaultLambda\\test\\DefaultLambda-US-EAST-1.Tests\\DefaultLambda-US-EAST-1.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patrick\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
     "C:\\Users\\Patrick\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",

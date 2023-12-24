@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\src\\DefaultLambda-US-EAST-1\\DefaultLambda-US-EAST-1.csproj",
+      "projectUniqueName": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\DefaultLambda\\src\\DefaultLambda-US-EAST-1\\DefaultLambda-US-EAST-1.csproj",
       "projectName": "DefaultLambda-US-EAST-1",
-      "projectPath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\src\\DefaultLambda-US-EAST-1\\DefaultLambda-US-EAST-1.csproj",
+      "projectPath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\DefaultLambda\\src\\DefaultLambda-US-EAST-1\\DefaultLambda-US-EAST-1.csproj",
       "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\src\\DefaultLambda-US-EAST-1\\obj\\",
+      "outputPath": "C:\\Users\\Patrick\\Desktop\\AWSDefault\\DefaultLambda-US-EAST-1\\DefaultLambda\\src\\DefaultLambda-US-EAST-1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
