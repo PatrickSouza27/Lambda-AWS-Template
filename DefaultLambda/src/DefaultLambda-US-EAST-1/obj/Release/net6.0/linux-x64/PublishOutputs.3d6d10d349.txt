@@ -1,0 +1,6 @@
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\DefaultLambda-US-EAST-1.deps.json
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\DefaultLambda-US-EAST-1.runtimeconfig.json
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\DefaultLambda-US-EAST-1.pdb
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Release\net6.0\publish\DefaultLambda-US-EAST-1.dll

@@ -1,0 +1,17 @@
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\DefaultLambda-US-EAST-1.deps.json
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\DefaultLambda-US-EAST-1.runtimeconfig.json
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\DefaultLambda-US-EAST-1.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\DefaultLambda-US-EAST-1.pdb
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.csproj.AssemblyReference.cache
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.csproj.CopyComplete
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\refint\DefaultLambda-US-EAST-1.dll
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.pdb
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\DefaultLambda-US-EAST-1.genruntimeconfig.cache
+C:\Users\Patrick\Desktop\AWSDefault\DefaultLambda-US-EAST-1\src\DefaultLambda-US-EAST-1\obj\Debug\net6.0\ref\DefaultLambda-US-EAST-1.dll

@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{260CCF5F-EA8B-4E8E-841F-084F8BFAA2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultLambda-US-EAST-1", "src\DefaultLambda-US-EAST-1\DefaultLambda-US-EAST-1.csproj", "{8214A2F1-449D-44AC-826F-F56F6C23BE4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{7B0D99A7-33AA-4142-BA8B-B3304C9F03FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultLambda-US-EAST-1.Tests", "test\DefaultLambda-US-EAST-1.Tests\DefaultLambda-US-EAST-1.Tests.csproj", "{8EABC665-43DC-431A-B8AE-89BD35BEA5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoke", "Invoke\Invoke.csproj", "{F320FDEB-FDBC-42F9-BC4E-742DAD7283DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8214A2F1-449D-44AC-826F-F56F6C23BE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8214A2F1-449D-44AC-826F-F56F6C23BE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8214A2F1-449D-44AC-826F-F56F6C23BE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8214A2F1-449D-44AC-826F-F56F6C23BE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EABC665-43DC-431A-B8AE-89BD35BEA5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EABC665-43DC-431A-B8AE-89BD35BEA5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EABC665-43DC-431A-B8AE-89BD35BEA5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EABC665-43DC-431A-B8AE-89BD35BEA5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F320FDEB-FDBC-42F9-BC4E-742DAD7283DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F320FDEB-FDBC-42F9-BC4E-742DAD7283DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F320FDEB-FDBC-42F9-BC4E-742DAD7283DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F320FDEB-FDBC-42F9-BC4E-742DAD7283DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8214A2F1-449D-44AC-826F-F56F6C23BE4C} = {260CCF5F-EA8B-4E8E-841F-084F8BFAA2FE}
+		{8EABC665-43DC-431A-B8AE-89BD35BEA5DC} = {7B0D99A7-33AA-4142-BA8B-B3304C9F03FF}
+	EndGlobalSection
+EndGlobal
